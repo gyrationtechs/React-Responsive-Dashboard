@@ -1,0 +1,23 @@
+.home {
+    flex: 4 ;
+}
+
+.featuredList {
+    display: flex;
+    justify-content: space-between;
+}
+
+.featuredIcon {
+    font-size: 14px !important;
+    margin-left: 5px;
+    color: green;
+}
+
+.featuredIcon.negative {
+    color: red;
+}
+
+.widgetArea {
+    display: flex;
+    margin: 20px;
+}
